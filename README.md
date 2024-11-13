@@ -1,1 +1,1 @@
-# EzMathGame
+# MathGameForElementary
